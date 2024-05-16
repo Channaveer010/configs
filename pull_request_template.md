@@ -11,11 +11,13 @@ Please check the code coverage while review the code and sonarqube coverage
 -- Funtional testing
 
 ## Jenkins Build
-
+Jenkins build : https:/
 
 ## CheckList 
 - [ ] SonarQube coverage
 - [ ] Unit Testing
+- [ ] Excpetions Handling
+- [ ] Logging
 
 ## Merging to which branch
 - [ ] Dev
