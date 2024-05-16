@@ -8,11 +8,11 @@
 
 
 ## CheckList 
-- [] SonarQube coverage
-- [] Unit Testing
+- [ ] SonarQube coverage
+- [ ] Unit Testing
 
 ## Merging to which branch
-- [] Dev
-- [] Prod
+- [ ] Dev
+- [ ] Prod
 
 
